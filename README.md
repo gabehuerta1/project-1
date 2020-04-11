@@ -9,3 +9,5 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - I learned how to find directories using the command line
+
+![cat](images/download.jpg)
